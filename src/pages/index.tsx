@@ -39,7 +39,7 @@ export default function Home() {
           }
         >
           <Search className={`w-4 h-4 md:w-6 md:h-6 mr-1 md:mr-1.5 shrink-0`} />
-          Whois Lookup
+          Atomao Whois Lookup
         </h1>
         <div
           className={"flex flex-row items-center flex-wrap justify-center mt-1"}
