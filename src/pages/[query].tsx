@@ -551,11 +551,11 @@ export default function Lookup({ data, target }: Props) {
         >
           Powered by{" "}
           <Link
-            href={`https://github.com/zmh-program/next-whois-ui`}
+            href={`https://www.atomao.com`}
             target={`_blank`}
             className={`text-primary underline underline-offset-2 mx-1`}
           >
-            Next Whois UI
+            Atomao Cloud
           </Link>
           <Badge variant={`outline`}>v{VERSION}</Badge>
         </div>
